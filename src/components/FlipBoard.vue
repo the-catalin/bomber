@@ -52,7 +52,7 @@
             reseteze de la zero.
           </li>
           <li>
-            Echipa câștigătoare este echipa care obține cel mai mare punctaj.
+            Echipa câștigătoare este cea care obține cel mai mare punctaj.
           </li>
         </ol>
 
