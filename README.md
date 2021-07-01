@@ -2,6 +2,8 @@
 
 A small team game that collects random points at each turn and turns the score to zero for a team when a bomb is encountered.
 
+Best played when displayed on a projector in the classroom.
+
 Check out the game here: https://asq.ro/bomber/
 
 ## Project setup
