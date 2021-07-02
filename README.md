@@ -1,6 +1,6 @@
 # Bomber
 
-A small team game that collects random points at each turn and turns the score to zero for a team when a bomb is encountered.
+A small team game that collects random points at each turn and resets the score for the team that encounters a bomb.
 
 Best played when displayed on a projector in the classroom.
 
